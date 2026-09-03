@@ -10,3 +10,6 @@ A simple C project designed to simulate a real-world bug fix and Pull Request wo
 5. Compile and run the code to verify your fix.
 6. Commit your changes and push to your fork.
 7. Open a Pull Request!
+
+
+Edit Hana
